@@ -1,0 +1,19 @@
+.colorText1{
+  color: blue;
+}
+
+.colorText2{
+  color: orange;
+}
+
+#colorText3{
+  color: tomato;
+}
+
+table, th, td, tr{
+  border:1px solid black;
+}
+
+.boldText{
+    font-weight: bold;
+}
